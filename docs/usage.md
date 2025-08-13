@@ -5,3 +5,4 @@ Notes and usage details for GAAI-framework.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
