@@ -12,3 +12,4 @@ Notes and usage details for GAAI-framework.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
