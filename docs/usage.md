@@ -46,3 +46,4 @@ Notes and usage details for GAAI-framework.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
