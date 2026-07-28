@@ -48,3 +48,4 @@ Notes and usage details for GAAI-framework.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
